@@ -12,7 +12,7 @@ import { India } from "@/components/India";
 import { Stats } from "@/components/Stats";
 import { Programme } from "@/components/Programme";
 import { Audience } from "@/components/Audience";
-// import { Sponsors } from "@/components/Sponsors";
+import { Sponsors } from "@/components/Sponsors";
 import { Expo } from "@/components/Expo";
 import { Speakers } from "@/components/Speakers";
 import { Register } from "@/components/Register";
@@ -32,7 +32,7 @@ export default function Home() {
         <Stats />
         <Programme />
         <Audience />
-        {/* <Sponsors /> */}
+        <Sponsors />
         <Expo />
         <Speakers />
         <Register />
