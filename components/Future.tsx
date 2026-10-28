@@ -182,7 +182,7 @@ export function Future() {
               }}
             >
               <img
-                src="https://images.unsplash.com/photo-1639762681485-074b7f938ba0?auto=format&fit=crop&w=1200&q=85"
+                src="/feature/image.png"
                 alt="Abstract digital network representing tokenized financial infrastructure"
                 loading="lazy"
                 style={{

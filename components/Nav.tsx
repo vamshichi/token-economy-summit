@@ -59,24 +59,16 @@ export default function Nav() {
           aria-label="The Token Economy Summit — home"
           onClick={() => setOpen(false)}
         >
-          <span className="nav-premium-emblem">
+          <span className="">
             <Image
               src="/logo.png"
               alt=""
-              width={44}
-              height={44}
+              width={185}
+              height={54}
               priority
             />
           </span>
 
-          <span className="nav-premium-wordmark">
-            <span className="nav-premium-name">
-              TOKEN ECONOMY
-            </span>
-            <span className="nav-premium-subtitle">
-              SUMMIT <i /> EXPO 2027
-            </span>
-          </span>
         </a>
 
         {/* Desktop and mobile navigation */}
